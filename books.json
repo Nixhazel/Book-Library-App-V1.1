@@ -1,0 +1,46 @@
+[
+  {
+    "id": "e250c266-ef18-4ab1-9cc7-92502b69570f",
+    "Title": "Promised never land",
+    "Author": "star",
+    "datePublished": "2023-07-12",
+    "Description": "a promised never land were we all die",
+    "pageCount": "768",
+    "Genre": "anime",
+    "Publisher": "olokor",
+    "createdAt": "2023-01-21T13:25:49.884Z",
+    "updatedAt": "2023-01-27T17:08:01.206Z",
+    "bookID": "e250c266-ef18-4ab1-9cc7-92502b69570f",
+    "description": "nooooo",
+    "genre": "anime",
+    "publisher": "olokor"
+  },
+  {
+    "id": "cc0f0d87-54fa-46a8-8382-9b0bfd70ed3a",
+    "Title": "Book Two",
+    "Author": "success",
+    "datePublished": "2023-03-22",
+    "Description": "g",
+    "pageCount": "7",
+    "Genre": "t",
+    "Publisher": "u",
+    "createdAt": "2023-01-27T17:04:28.011Z",
+    "updatedAt": "2023-03-21T23:57:13.094Z",
+    "bookID": "cc0f0d87-54fa-46a8-8382-9b0bfd70ed3a",
+    "description": "a human died and reincarnated in another world",
+    "genre": "t",
+    "publisher": "u"
+  },
+  {
+    "id": "c4fa29a8-d7eb-4a12-8453-c78a1a5eff10",
+    "Title": "Farooq",
+    "Author": "farooq",
+    "datePublished": "2512-06-09",
+    "Description": "onyinye ",
+    "pageCount": "3",
+    "Genre": "trouble",
+    "Publisher": "olokor",
+    "createdAt": "2023-01-27T17:10:03.944Z",
+    "updatedAt": "2023-01-27T17:10:03.944Z"
+  }
+]

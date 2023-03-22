@@ -1,0 +1,34 @@
+[
+  {
+    "id": "cb24a943-a3e7-4e71-9579-531ce62677e2",
+    "UserName": "Emmanuel",
+    "Email": "neolokor1@gmail.com",
+    "password": "$2b$10$J4h1HsPYxRRIusFlyaagGusIIhZkmqVKu/fApEVx6qjVVpxdUhxHa",
+    "createdAt": "2023-01-25T15:19:43.747Z",
+    "updatedAt": "2023-01-25T15:19:43.747Z"
+  },
+  {
+    "id": "913b9b91-8838-46e8-8712-5c8810e817d2",
+    "UserName": "name",
+    "Email": "name1@yahoo.com",
+    "password": "$2b$10$/ZoYLsN5AeL2IXjLWDsrqOUck2aYnT/dk4bAJUTDxvzoxmJnYZ0rm",
+    "createdAt": "2023-01-27T00:26:04.759Z",
+    "updatedAt": "2023-01-27T00:26:04.759Z"
+  },
+  {
+    "id": "240d58d3-15e1-49d8-b56c-5565a755989b",
+    "UserName": "new",
+    "Email": "new@yahoo.com",
+    "password": "$2b$10$WotKK.Tpkx82GDWA21H/5ulnuI26SkQP.cSxsU9Afy6q43UVhRrTu",
+    "createdAt": "2023-01-27T17:03:27.898Z",
+    "updatedAt": "2023-01-27T17:03:27.898Z"
+  },
+  {
+    "id": "e6cb31e6-7381-470f-878a-92b589bbccb9",
+    "UserName": "success",
+    "Email": "starsuccess@gamil.com",
+    "password": "$2b$10$3zfSY.WYmxPTAuD9gQZyCeOqMytPti058W7DI9MAiT2X/Tnos8NN2",
+    "createdAt": "2023-03-21T23:55:42.726Z",
+    "updatedAt": "2023-03-21T23:55:42.726Z"
+  }
+]
